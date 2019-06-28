@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  font-family: 'Open Sans', sans-serif;
+  line-height: 1.5;
+  font-size: 14px;
+}
+
+.top-head {
+  background-color: #49688e;
+  clear: both;
+  font-family: "Merriweather Sans",sans-serif;
+  min-height: 35px;
+}
+
+.contacts {
+  margin-top: 0;
+}
+
+.background-header {
+  background-color: #15305b;
+  min-height: 300px;
+}
+
+.background-body {
+  background-color: green;
+  min-height: 300px;
+}
+
+.site-footer {
+  background-color: #15305b;
+  clear: both;
+  color: #ffffff;
+  padding: 15px 0;
+  text-align: center;
+}
+
+.copyright {
+  margin-bottom: 5px;
+  margin-top: 5px;
+}
